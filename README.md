@@ -2,6 +2,5 @@
 - 🌱 I’m currently learning Golang, WebAssembly and Reverse Engineering Javascript Engines
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about good stuff
 - 📫 How to reach me: http://waterway.github.io/
 - ⛳ Spending my free time playing CTFs
