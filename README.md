@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Malware Analysis, Forensics and Reverse Engineering
-- 🌱 I’m currently learning Golang, WebAssembly and Cryptography
+- 🔭 I’m currently working on Forensics and Penetration Testing.
+- 🌱 I’m currently learning Golang, Rust and Cryptography.
 - 📫 How to reach me: http://waterway.github.io/
-- ⛳ Spending my free time on Bug Bounties and CTFs
+- ⛳ Spending my free time on Bug Bounties, Smart Contracts Bug Bounties and CTFs.
